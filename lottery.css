@@ -1,0 +1,35 @@
+.all{
+    background: #FFFFCC;
+}
+
+.circle{
+    width:40px;
+    height:40px;
+border-radius:50%;
+    text-align: center;
+    background:gold;
+     text-align: center;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.circler{width:40px;
+    height:40px;
+border-radius:50%;
+    text-align: center;
+    background:red;
+    font-weight: 700;
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+}
+.font_red0{
+    color: red;
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.font_ch{
+    font-size: 15;
+}
